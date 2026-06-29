@@ -15,13 +15,14 @@
   </p>
 </div>
 
-## about
+### about
 > Building software , documenting ideas , and sharing experiences .
 
-## stack
+### stack
 `Java` `Spring Boot` `MyBatis` `MySQL` `Redis` `RabbitMQ` `Vue` `JavaScript`
 
-
+### share
+懒于当下，勤于长远
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2C5364,50:203A43,100:0F2027&section=footer" alt="footer" />
