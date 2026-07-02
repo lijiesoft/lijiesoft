@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Blog-lijie.cool-181717?style=flat-square" alt="Blog" />
     </a>
     <a href="https://github.com/lijiesoft">
-      <img src="https://img.shields.io/badge/GitHub-lijie-181717?style=flat-square&logo=github" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-lijiesoft-181717?style=flat-square&logo=github" alt="GitHub" />
     </a>
     <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Spring%20Boot%20%7C%20Vue-0A7EA4?style=flat-square" alt="Focus" />
     <img src="https://img.shields.io/badge/Work-Backend%20Driven%20Full%20Stack-2D6A4F?style=flat-square" alt="Work" />
