@@ -4,7 +4,7 @@
   # I'm lijie
   Full Stack Developer
   <p>
-    <a href="https://www.lijie.cool">
+    <a href="https://lijie.cool">
       <img src="https://img.shields.io/badge/Blog-lijie.cool-181717?style=flat-square" alt="Blog" />
     </a>
     <a href="https://github.com/lijiesoft">
