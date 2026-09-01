@@ -19,6 +19,14 @@ body:
       placeholder: https://example.com
     validations:
       required: true
+  - type: input
+    id: avatar
+    attributes:
+      label: 网站头像
+      description: 头像图片地址
+      placeholder: https://example.com/logo.png
+    validations:
+      required: true
   - type: textarea
     id: description
     attributes:
@@ -27,11 +35,4 @@ body:
       placeholder: 记录技术与生活
     validations:
       required: false
-  - type: input
-    id: avatar
-    attributes:
-      label: 网站头像
-      description: 头像图片地址
-      placeholder: https://example.com/logo.png
-    validations:
-      required: false
+
