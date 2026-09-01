@@ -1,0 +1,37 @@
+name: 友链申请
+description: 申请交换友情链接（提交后系统会自动校验回链，通过后自动收录）
+title: "友链申请："
+labels: ["友链申请"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 网站名称
+      description: 你的网站名称
+      placeholder: 例如：山野小站
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 网站地址
+      description: 你的网站首页地址。请确保页面中已放置本站lijie.cool的友链链接（回链校验通过才会收录）
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: 网站描述
+      description: 一句话介绍你的网站
+      placeholder: 记录技术与生活
+    validations:
+      required: false
+  - type: input
+    id: avatar
+    attributes:
+      label: 网站头像
+      description: 头像图片地址
+      placeholder: https://example.com/logo.png
+    validations:
+      required: false
