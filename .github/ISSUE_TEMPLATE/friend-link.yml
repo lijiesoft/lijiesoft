@@ -1,3 +1,4 @@
+blank_issues_enabled: false
 name: 友链申请
 description: 申请交换友情链接（提交后系统会自动校验回链，通过后自动收录）
 title: "友链申请："
