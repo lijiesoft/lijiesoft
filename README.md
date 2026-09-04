@@ -16,7 +16,7 @@
 </div>
 
 ### about
-> Building software , documenting ideas , and sharing experiences .
+> building software , documenting ideas , and sharing experiences .
 
 ### stack
 `Java` `Spring Boot` `MyBatis` `MySQL` `Redis` `RabbitMQ` `Vue` `JavaScript`
